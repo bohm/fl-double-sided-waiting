@@ -5,5 +5,7 @@ few solutions of the LP based on certain parameters. This allows for easy verifi
 claims in a paper Online Facility Location with Linear Delay, currently in preparation.
 
 Code author: Martin Böhm
+
 Paper authors: Marcin Bienkowski, Martin Böhm, Jaroslaw Byrka, Jan Marcinkowski
+
 A link to the paper will be provided when a public abstract is available.
